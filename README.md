@@ -7,7 +7,7 @@ evening most Fridays.
 
 When I'm looking for the next issue I normally search by issue number, which takes memorization. I don't mind it, but there's certainly a better way. Also, sometimes there are break weeks where there is no release at all. I want to know about those as well, and sometimes it's useful to have a reminder that it's a break week.
 
-This script will be used to check [MHARead](https://mharead.com) to see when the newest translation is available. Once it's available, it will send me a text message and an email with the link so that I can go ahead and read the latest issue. If it's a break week, it will also send me a text to remind me that there will be no comic. The script will also keep track of the current, previous, and next issues coming up.
+This script will be used to check [MHARead](https://mharead.com) to see when the newest translation is available. Once it's available, it will send me a text message with the link so that I can go ahead and read the latest issue. If it's a break week, it will also send me a text to remind me that there will be no comic. The script will also keep track of the current, previous, and next issues coming up.
 
 ## Tools used
 
